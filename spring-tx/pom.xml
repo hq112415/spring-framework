@@ -16,7 +16,7 @@
     <dependencies>
         <dependency>
             <groupId>spring-framework</groupId>
-            <artifactId>spring-ioc</artifactId>
+            <artifactId>spring-bean</artifactId>
             <version>1.0.0</version>
         </dependency>
     </dependencies>

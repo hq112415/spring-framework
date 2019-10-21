@@ -1,0 +1,23 @@
+[
+  {
+    "name": "beforeMethod",
+    "className": "com.hq.srping.aop.test.EndTimeAfterMethod"
+  },
+  {
+    "name": "afterMethod",
+    "className": "com.hq.srping.aop.test.EndTimeAfterMethod"
+  },
+  {
+    "name": "testService",
+    "className": "com.hq.srping.aop.test.TestService"
+  },
+  {
+    "name": "testServiceProxy",
+    "className": "com.hq.spring.aop.core.ProxyFactoryBean",
+    "target": "testService",
+    "interceptorNames": [
+      "beforeMethod",
+      "afterMethod"
+    ]
+  }
+]

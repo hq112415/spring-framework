@@ -1,6 +1,7 @@
 package com.xilidou.framework.ioc;
 
-import com.xilidou.framework.ioc.core.JsonApplicationContext;
+
+import com.hq.spring.ioc.core.JsonApplicationContext;
 import com.xilidou.framework.ioc.entity.Robot;
 
 public class Test {
