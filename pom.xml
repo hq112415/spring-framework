@@ -9,6 +9,7 @@
 
     <modules>
         <module>spring-tx</module>
+        <module>spring-bean</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -315,6 +316,18 @@
                         </configuration>
                     </execution>
                 </executions>
+            </plugin>
+            <!-- 编译插件 -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.2</version>
+                <configuration>
+                    <encoding>${project.build.sourceEncoding}</encoding>
+                    <source>${java.version}</source>
+                    <target>${java.version}</target>
+                    <compilerVersion>${java.version}</compilerVersion>
+                </configuration>
             </plugin>
         </plugins>
     </build>
