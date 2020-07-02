@@ -35,7 +35,7 @@
         <dalaran.version>0.0.36</dalaran.version>
         <fastjson.version>1.2.60</fastjson.version>
         <!-- database -->
-        <mysql-connector-java.version>5.1.45</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <c3p0.version>0.9.5.2</c3p0.version>
         <druid.version>1.1.19</druid.version>
         <mybatis.version>3.4.6</mybatis.version>
