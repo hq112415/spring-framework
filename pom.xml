@@ -26,7 +26,7 @@
         <caffeine.version>2.6.2</caffeine.version>
         <fastjson.version>1.2.60</fastjson.version>
         <jackson.version>2.9.8</jackson.version>
-        <httpcomponents.version>4.5.6</httpcomponents.version>
+        <httpcomponents.version>4.5.13</httpcomponents.version>
         <htmlcleaner.version>2.22</htmlcleaner.version>
         <netty.version>4.1.39.Final</netty.version>
         <!-- spring -->
