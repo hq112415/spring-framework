@@ -30,7 +30,7 @@
         <htmlcleaner.version>2.22</htmlcleaner.version>
         <netty.version>4.1.39.Final</netty.version>
         <!-- spring -->
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <spring-rabbit.version>1.7.2.RELEASE</spring-rabbit.version>
         <dalaran.version>0.0.36</dalaran.version>
         <fastjson.version>1.2.60</fastjson.version>
